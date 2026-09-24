@@ -15,7 +15,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0001"
   },
   {
     "date": "2026-08-24",
@@ -33,7 +34,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0002"
   },
   {
     "date": "2026-08-24",
@@ -51,7 +53,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0003"
   },
   {
     "date": "2026-08-25",
@@ -69,7 +72,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0004"
   },
   {
     "date": "2026-08-25",
@@ -87,7 +91,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0005"
   },
   {
     "date": "2026-08-25",
@@ -105,7 +110,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0006"
   },
   {
     "date": "2026-08-26",
@@ -123,7 +129,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0007"
   },
   {
     "date": "2026-08-26",
@@ -141,7 +148,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0008"
   },
   {
     "date": "2026-08-26",
@@ -159,7 +167,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0009"
   },
   {
     "date": "2026-08-27",
@@ -177,7 +186,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0010"
   },
   {
     "date": "2026-08-27",
@@ -195,7 +205,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0011"
   },
   {
     "date": "2026-08-27",
@@ -213,7 +224,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0012"
   },
   {
     "date": "2026-08-28",
@@ -231,7 +243,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0013"
   },
   {
     "date": "2026-08-28",
@@ -249,7 +262,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0014"
   },
   {
     "date": "2026-08-28",
@@ -267,7 +281,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0015"
   },
   {
     "date": "2026-08-29",
@@ -285,7 +300,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0016"
   },
   {
     "date": "2026-08-29",
@@ -303,7 +319,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0017"
   },
   {
     "date": "2026-08-29",
@@ -321,7 +338,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0018"
   },
   {
     "date": "2026-08-30",
@@ -339,7 +357,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0019"
   },
   {
     "date": "2026-08-30",
@@ -357,7 +376,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0020"
   },
   {
     "date": "2026-08-30",
@@ -375,7 +395,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0021"
   },
   {
     "date": "2026-08-31",
@@ -393,7 +414,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0022"
   },
   {
     "date": "2026-08-31",
@@ -411,7 +433,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0023"
   },
   {
     "date": "2026-08-31",
@@ -429,7 +452,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0024"
   },
   {
     "date": "2026-09-01",
@@ -447,7 +471,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0025"
   },
   {
     "date": "2026-09-01",
@@ -465,7 +490,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0026"
   },
   {
     "date": "2026-09-01",
@@ -483,7 +509,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0027"
   },
   {
     "date": "2026-09-02",
@@ -501,7 +528,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0028"
   },
   {
     "date": "2026-09-02",
@@ -519,7 +547,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0029"
   },
   {
     "date": "2026-09-02",
@@ -537,7 +566,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0030"
   },
   {
     "date": "2026-09-03",
@@ -555,7 +585,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0031"
   },
   {
     "date": "2026-09-03",
@@ -573,7 +604,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0032"
   },
   {
     "date": "2026-09-03",
@@ -591,7 +623,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0033"
   },
   {
     "date": "2026-09-04",
@@ -609,7 +642,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0034"
   },
   {
     "date": "2026-09-04",
@@ -627,7 +661,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0035"
   },
   {
     "date": "2026-09-04",
@@ -645,7 +680,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0036"
   },
   {
     "date": "2026-09-05",
@@ -663,7 +699,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0037"
   },
   {
     "date": "2026-09-05",
@@ -681,7 +718,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0038"
   },
   {
     "date": "2026-09-05",
@@ -699,7 +737,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0039"
   },
   {
     "date": "2026-09-06",
@@ -717,7 +756,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0040"
   },
   {
     "date": "2026-09-06",
@@ -735,7 +775,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0041"
   },
   {
     "date": "2026-09-06",
@@ -753,7 +794,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0042"
   },
   {
     "date": "2026-09-07",
@@ -771,7 +813,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0043"
   },
   {
     "date": "2026-09-07",
@@ -789,7 +832,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0044"
   },
   {
     "date": "2026-09-07",
@@ -807,7 +851,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0045"
   },
   {
     "date": "2026-09-08",
@@ -825,7 +870,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0046"
   },
   {
     "date": "2026-09-08",
@@ -843,7 +889,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0047"
   },
   {
     "date": "2026-09-08",
@@ -861,7 +908,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0048"
   },
   {
     "date": "2026-09-09",
@@ -879,7 +927,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0049"
   },
   {
     "date": "2026-09-09",
@@ -897,7 +946,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0050"
   },
   {
     "date": "2026-09-09",
@@ -915,7 +965,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0051"
   },
   {
     "date": "2026-09-10",
@@ -933,7 +984,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0052"
   },
   {
     "date": "2026-09-10",
@@ -951,7 +1003,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0053"
   },
   {
     "date": "2026-09-10",
@@ -969,7 +1022,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0054"
   },
   {
     "date": "2026-09-11",
@@ -987,7 +1041,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0055"
   },
   {
     "date": "2026-09-11",
@@ -1005,7 +1060,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0056"
   },
   {
     "date": "2026-09-11",
@@ -1023,7 +1079,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0057"
   },
   {
     "date": "2026-09-12",
@@ -1041,7 +1098,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0058"
   },
   {
     "date": "2026-09-12",
@@ -1059,7 +1117,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0059"
   },
   {
     "date": "2026-09-12",
@@ -1077,7 +1136,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0060"
   },
   {
     "date": "2026-09-13",
@@ -1095,7 +1155,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0061"
   },
   {
     "date": "2026-09-13",
@@ -1113,7 +1174,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0062"
   },
   {
     "date": "2026-09-13",
@@ -1131,7 +1193,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0063"
   },
   {
     "date": "2026-09-14",
@@ -1149,7 +1212,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0064"
   },
   {
     "date": "2026-09-14",
@@ -1167,7 +1231,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0065"
   },
   {
     "date": "2026-09-14",
@@ -1185,7 +1250,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0066"
   },
   {
     "date": "2026-09-15",
@@ -1203,7 +1269,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0067"
   },
   {
     "date": "2026-09-15",
@@ -1221,7 +1288,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0068"
   },
   {
     "date": "2026-09-15",
@@ -1239,7 +1307,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0069"
   },
   {
     "date": "2026-09-16",
@@ -1257,7 +1326,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0070"
   },
   {
     "date": "2026-09-16",
@@ -1275,7 +1345,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0071"
   },
   {
     "date": "2026-09-16",
@@ -1293,7 +1364,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0072"
   },
   {
     "date": "2026-09-17",
@@ -1311,7 +1383,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0073"
   },
   {
     "date": "2026-09-17",
@@ -1329,7 +1402,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0074"
   },
   {
     "date": "2026-09-17",
@@ -1347,7 +1421,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0075"
   },
   {
     "date": "2026-09-18",
@@ -1365,7 +1440,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0076"
   },
   {
     "date": "2026-09-18",
@@ -1383,7 +1459,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0077"
   },
   {
     "date": "2026-09-18",
@@ -1401,7 +1478,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0078"
   },
   {
     "date": "2026-09-19",
@@ -1419,7 +1497,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0079"
   },
   {
     "date": "2026-09-19",
@@ -1437,7 +1516,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0080"
   },
   {
     "date": "2026-09-19",
@@ -1455,7 +1535,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0081"
   },
   {
     "date": "2026-09-20",
@@ -1473,7 +1554,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0082"
   },
   {
     "date": "2026-09-20",
@@ -1491,7 +1573,8 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0083"
   },
   {
     "date": "2026-09-20",
@@ -1509,6 +1592,7 @@
     "attribution_window": "7-day click",
     "reporting_basis": "conversion date",
     "data_status": "complete",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "channel-daily-0084"
   }
 ]

@@ -9,7 +9,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0001"
   },
   {
     "touch_id": "SS-T0002",
@@ -21,7 +22,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0002"
   },
   {
     "touch_id": "SS-T0003",
@@ -33,7 +35,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0003"
   },
   {
     "touch_id": "SS-T0004",
@@ -45,7 +48,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0004"
   },
   {
     "touch_id": "SS-T0005",
@@ -57,7 +61,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0005"
   },
   {
     "touch_id": "SS-T0006",
@@ -69,7 +74,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0006"
   },
   {
     "touch_id": "SS-T0007",
@@ -81,7 +87,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0007"
   },
   {
     "touch_id": "SS-T0008",
@@ -93,7 +100,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0008"
   },
   {
     "touch_id": "SS-T0009",
@@ -105,7 +113,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0009"
   },
   {
     "touch_id": "SS-T0010",
@@ -117,7 +126,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0010"
   },
   {
     "touch_id": "SS-T0011",
@@ -129,7 +139,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0011"
   },
   {
     "touch_id": "SS-T0012",
@@ -141,7 +152,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0012"
   },
   {
     "touch_id": "SS-T0013",
@@ -153,7 +165,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0013"
   },
   {
     "touch_id": "SS-T0014",
@@ -165,7 +178,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0014"
   },
   {
     "touch_id": "SS-T0015",
@@ -177,7 +191,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0015"
   },
   {
     "touch_id": "SS-T0016",
@@ -189,7 +204,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0016"
   },
   {
     "touch_id": "SS-T0017",
@@ -201,7 +217,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0017"
   },
   {
     "touch_id": "SS-T0018",
@@ -213,7 +230,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0018"
   },
   {
     "touch_id": "SS-T0019",
@@ -225,7 +243,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0019"
   },
   {
     "touch_id": "SS-T0020",
@@ -237,7 +256,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0020"
   },
   {
     "touch_id": "SS-T0021",
@@ -249,7 +269,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0021"
   },
   {
     "touch_id": "SS-T0022",
@@ -261,7 +282,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0022"
   },
   {
     "touch_id": "SS-T0023",
@@ -273,7 +295,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0023"
   },
   {
     "touch_id": "SS-T0024",
@@ -285,7 +308,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0024"
   },
   {
     "touch_id": "SS-T0025",
@@ -297,7 +321,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0025"
   },
   {
     "touch_id": "SS-T0026",
@@ -309,7 +334,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0026"
   },
   {
     "touch_id": "SS-T0027",
@@ -321,7 +347,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0027"
   },
   {
     "touch_id": "SS-T0028",
@@ -333,7 +360,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0028"
   },
   {
     "touch_id": "SS-T0029",
@@ -345,7 +373,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0029"
   },
   {
     "touch_id": "SS-T0030",
@@ -357,7 +386,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0030"
   },
   {
     "touch_id": "SS-T0031",
@@ -369,7 +399,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0031"
   },
   {
     "touch_id": "SS-T0032",
@@ -381,7 +412,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0032"
   },
   {
     "touch_id": "SS-T0033",
@@ -393,7 +425,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0033"
   },
   {
     "touch_id": "SS-T0034",
@@ -405,7 +438,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0034"
   },
   {
     "touch_id": "SS-T0035",
@@ -417,7 +451,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0035"
   },
   {
     "touch_id": "SS-T0036",
@@ -429,7 +464,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0036"
   },
   {
     "touch_id": "SS-T0037",
@@ -441,7 +477,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0037"
   },
   {
     "touch_id": "SS-T0038",
@@ -453,7 +490,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0038"
   },
   {
     "touch_id": "SS-T0039",
@@ -465,7 +503,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0039"
   },
   {
     "touch_id": "SS-T0040",
@@ -477,7 +516,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0040"
   },
   {
     "touch_id": "SS-T0041",
@@ -489,7 +529,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0041"
   },
   {
     "touch_id": "SS-T0042",
@@ -501,7 +542,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0042"
   },
   {
     "touch_id": "SS-T0043",
@@ -513,7 +555,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0043"
   },
   {
     "touch_id": "SS-T0044",
@@ -525,7 +568,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0044"
   },
   {
     "touch_id": "SS-T0045",
@@ -537,7 +581,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0045"
   },
   {
     "touch_id": "SS-T0046",
@@ -549,7 +594,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0046"
   },
   {
     "touch_id": "SS-T0047",
@@ -561,7 +607,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0047"
   },
   {
     "touch_id": "SS-T0048",
@@ -573,7 +620,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0048"
   },
   {
     "touch_id": "SS-T0049",
@@ -585,7 +633,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0049"
   },
   {
     "touch_id": "SS-T0050",
@@ -597,7 +646,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0050"
   },
   {
     "touch_id": "SS-T0051",
@@ -609,7 +659,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0051"
   },
   {
     "touch_id": "SS-T0052",
@@ -621,7 +672,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0052"
   },
   {
     "touch_id": "SS-T0053",
@@ -633,7 +685,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0053"
   },
   {
     "touch_id": "SS-T0054",
@@ -645,7 +698,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0054"
   },
   {
     "touch_id": "SS-T0055",
@@ -657,7 +711,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0055"
   },
   {
     "touch_id": "SS-T0056",
@@ -669,7 +724,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0056"
   },
   {
     "touch_id": "SS-T0057",
@@ -681,7 +737,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0057"
   },
   {
     "touch_id": "SS-T0058",
@@ -693,7 +750,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0058"
   },
   {
     "touch_id": "SS-T0059",
@@ -705,7 +763,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0059"
   },
   {
     "touch_id": "SS-T0060",
@@ -717,7 +776,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0060"
   },
   {
     "touch_id": "SS-T0061",
@@ -729,7 +789,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0061"
   },
   {
     "touch_id": "SS-T0062",
@@ -741,7 +802,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0062"
   },
   {
     "touch_id": "SS-T0063",
@@ -753,7 +815,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0063"
   },
   {
     "touch_id": "SS-T0064",
@@ -765,7 +828,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0064"
   },
   {
     "touch_id": "SS-T0065",
@@ -777,7 +841,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0065"
   },
   {
     "touch_id": "SS-T0066",
@@ -789,7 +854,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0066"
   },
   {
     "touch_id": "SS-T0067",
@@ -801,7 +867,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0067"
   },
   {
     "touch_id": "SS-T0068",
@@ -813,7 +880,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0068"
   },
   {
     "touch_id": "SS-T0069",
@@ -825,7 +893,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0069"
   },
   {
     "touch_id": "SS-T0070",
@@ -837,7 +906,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0070"
   },
   {
     "touch_id": "SS-T0071",
@@ -849,7 +919,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0071"
   },
   {
     "touch_id": "SS-T0072",
@@ -861,7 +932,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0072"
   },
   {
     "touch_id": "SS-T0073",
@@ -873,7 +945,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0073"
   },
   {
     "touch_id": "SS-T0074",
@@ -885,7 +958,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0074"
   },
   {
     "touch_id": "SS-T0075",
@@ -897,7 +971,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0075"
   },
   {
     "touch_id": "SS-T0076",
@@ -909,7 +984,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0076"
   },
   {
     "touch_id": "SS-T0077",
@@ -921,7 +997,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0077"
   },
   {
     "touch_id": "SS-T0078",
@@ -933,7 +1010,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0078"
   },
   {
     "touch_id": "SS-T0079",
@@ -945,7 +1023,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0079"
   },
   {
     "touch_id": "SS-T0080",
@@ -957,7 +1036,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0080"
   },
   {
     "touch_id": "SS-T0081",
@@ -969,7 +1049,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0081"
   },
   {
     "touch_id": "SS-T0082",
@@ -981,7 +1062,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0082"
   },
   {
     "touch_id": "SS-T0083",
@@ -993,7 +1075,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0083"
   },
   {
     "touch_id": "SS-T0084",
@@ -1005,7 +1088,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0084"
   },
   {
     "touch_id": "SS-T0085",
@@ -1017,7 +1101,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0085"
   },
   {
     "touch_id": "SS-T0086",
@@ -1029,7 +1114,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0086"
   },
   {
     "touch_id": "SS-T0087",
@@ -1041,7 +1127,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0087"
   },
   {
     "touch_id": "SS-T0088",
@@ -1053,7 +1140,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0088"
   },
   {
     "touch_id": "SS-T0089",
@@ -1065,7 +1153,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0089"
   },
   {
     "touch_id": "SS-T0090",
@@ -1077,7 +1166,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0090"
   },
   {
     "touch_id": "SS-T0091",
@@ -1089,7 +1179,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0091"
   },
   {
     "touch_id": "SS-T0092",
@@ -1101,7 +1192,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0092"
   },
   {
     "touch_id": "SS-T0093",
@@ -1113,7 +1205,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0093"
   },
   {
     "touch_id": "SS-T0094",
@@ -1125,7 +1218,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0094"
   },
   {
     "touch_id": "SS-T0095",
@@ -1137,7 +1231,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0095"
   },
   {
     "touch_id": "SS-T0096",
@@ -1149,7 +1244,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0096"
   },
   {
     "touch_id": "SS-T0097",
@@ -1161,7 +1257,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0097"
   },
   {
     "touch_id": "SS-T0098",
@@ -1173,7 +1270,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0098"
   },
   {
     "touch_id": "SS-T0099",
@@ -1185,7 +1283,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0099"
   },
   {
     "touch_id": "SS-T0100",
@@ -1197,7 +1296,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0100"
   },
   {
     "touch_id": "SS-T0101",
@@ -1209,7 +1309,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0101"
   },
   {
     "touch_id": "SS-T0102",
@@ -1221,7 +1322,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0102"
   },
   {
     "touch_id": "SS-T0103",
@@ -1233,7 +1335,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0103"
   },
   {
     "touch_id": "SS-T0104",
@@ -1245,7 +1348,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0104"
   },
   {
     "touch_id": "SS-T0105",
@@ -1257,7 +1361,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0105"
   },
   {
     "touch_id": "SS-T0106",
@@ -1269,7 +1374,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0106"
   },
   {
     "touch_id": "SS-T0107",
@@ -1281,7 +1387,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0107"
   },
   {
     "touch_id": "SS-T0108",
@@ -1293,7 +1400,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0108"
   },
   {
     "touch_id": "SS-T0109",
@@ -1305,7 +1413,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0109"
   },
   {
     "touch_id": "SS-T0110",
@@ -1317,7 +1426,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0110"
   },
   {
     "touch_id": "SS-T0111",
@@ -1329,7 +1439,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0111"
   },
   {
     "touch_id": "SS-T0112",
@@ -1341,7 +1452,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0112"
   },
   {
     "touch_id": "SS-T0113",
@@ -1353,7 +1465,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0113"
   },
   {
     "touch_id": "SS-T0114",
@@ -1365,7 +1478,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0114"
   },
   {
     "touch_id": "SS-T0115",
@@ -1377,7 +1491,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0115"
   },
   {
     "touch_id": "SS-T0116",
@@ -1389,7 +1504,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0116"
   },
   {
     "touch_id": "SS-T0117",
@@ -1401,7 +1517,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0117"
   },
   {
     "touch_id": "SS-T0118",
@@ -1413,7 +1530,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0118"
   },
   {
     "touch_id": "SS-T0119",
@@ -1425,7 +1543,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0119"
   },
   {
     "touch_id": "SS-T0120",
@@ -1437,7 +1556,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0120"
   },
   {
     "touch_id": "SS-T0121",
@@ -1449,7 +1569,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0121"
   },
   {
     "touch_id": "SS-T0122",
@@ -1461,7 +1582,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0122"
   },
   {
     "touch_id": "SS-T0123",
@@ -1473,7 +1595,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0123"
   },
   {
     "touch_id": "SS-T0124",
@@ -1485,7 +1608,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0124"
   },
   {
     "touch_id": "SS-T0125",
@@ -1497,7 +1621,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0125"
   },
   {
     "touch_id": "SS-T0126",
@@ -1509,7 +1634,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0126"
   },
   {
     "touch_id": "SS-T0127",
@@ -1521,7 +1647,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0127"
   },
   {
     "touch_id": "SS-T0128",
@@ -1533,7 +1660,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0128"
   },
   {
     "touch_id": "SS-T0129",
@@ -1545,7 +1673,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0129"
   },
   {
     "touch_id": "SS-T0130",
@@ -1557,7 +1686,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0130"
   },
   {
     "touch_id": "SS-T0131",
@@ -1569,7 +1699,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0131"
   },
   {
     "touch_id": "SS-T0132",
@@ -1581,7 +1712,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0132"
   },
   {
     "touch_id": "SS-T0133",
@@ -1593,7 +1725,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0133"
   },
   {
     "touch_id": "SS-T0134",
@@ -1605,7 +1738,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0134"
   },
   {
     "touch_id": "SS-T0135",
@@ -1617,7 +1751,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0135"
   },
   {
     "touch_id": "SS-T0136",
@@ -1629,7 +1764,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0136"
   },
   {
     "touch_id": "SS-T0137",
@@ -1641,7 +1777,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0137"
   },
   {
     "touch_id": "SS-T0138",
@@ -1653,7 +1790,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0138"
   },
   {
     "touch_id": "SS-T0139",
@@ -1665,7 +1803,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0139"
   },
   {
     "touch_id": "SS-T0140",
@@ -1677,7 +1816,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0140"
   },
   {
     "touch_id": "SS-T0141",
@@ -1689,7 +1829,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0141"
   },
   {
     "touch_id": "SS-T0142",
@@ -1701,7 +1842,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0142"
   },
   {
     "touch_id": "SS-T0143",
@@ -1713,7 +1855,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0143"
   },
   {
     "touch_id": "SS-T0144",
@@ -1725,7 +1868,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0144"
   },
   {
     "touch_id": "SS-T0145",
@@ -1737,7 +1881,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0145"
   },
   {
     "touch_id": "SS-T0146",
@@ -1749,7 +1894,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0146"
   },
   {
     "touch_id": "SS-T0147",
@@ -1761,7 +1907,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0147"
   },
   {
     "touch_id": "SS-T0148",
@@ -1773,7 +1920,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0148"
   },
   {
     "touch_id": "SS-T0149",
@@ -1785,7 +1933,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0149"
   },
   {
     "touch_id": "SS-T0150",
@@ -1797,7 +1946,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0150"
   },
   {
     "touch_id": "SS-T0151",
@@ -1809,7 +1959,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0151"
   },
   {
     "touch_id": "SS-T0152",
@@ -1821,7 +1972,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0152"
   },
   {
     "touch_id": "SS-T0153",
@@ -1833,7 +1985,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0153"
   },
   {
     "touch_id": "SS-T0154",
@@ -1845,7 +1998,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0154"
   },
   {
     "touch_id": "SS-T0155",
@@ -1857,7 +2011,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0155"
   },
   {
     "touch_id": "SS-T0156",
@@ -1869,7 +2024,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0156"
   },
   {
     "touch_id": "SS-T0157",
@@ -1881,7 +2037,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0157"
   },
   {
     "touch_id": "SS-T0158",
@@ -1893,7 +2050,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0158"
   },
   {
     "touch_id": "SS-T0159",
@@ -1905,7 +2063,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0159"
   },
   {
     "touch_id": "SS-T0160",
@@ -1917,7 +2076,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0160"
   },
   {
     "touch_id": "SS-T0161",
@@ -1929,7 +2089,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0161"
   },
   {
     "touch_id": "SS-T0162",
@@ -1941,7 +2102,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0162"
   },
   {
     "touch_id": "SS-T0163",
@@ -1953,7 +2115,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0163"
   },
   {
     "touch_id": "SS-T0164",
@@ -1965,7 +2128,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0164"
   },
   {
     "touch_id": "SS-T0165",
@@ -1977,7 +2141,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0165"
   },
   {
     "touch_id": "SS-T0166",
@@ -1989,7 +2154,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0166"
   },
   {
     "touch_id": "SS-T0167",
@@ -2001,7 +2167,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0167"
   },
   {
     "touch_id": "SS-T0168",
@@ -2013,7 +2180,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0168"
   },
   {
     "touch_id": "SS-T0169",
@@ -2025,7 +2193,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0169"
   },
   {
     "touch_id": "SS-T0170",
@@ -2037,7 +2206,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0170"
   },
   {
     "touch_id": "SS-T0171",
@@ -2049,7 +2219,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0171"
   },
   {
     "touch_id": "SS-T0172",
@@ -2061,7 +2232,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0172"
   },
   {
     "touch_id": "SS-T0173",
@@ -2073,7 +2245,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0173"
   },
   {
     "touch_id": "SS-T0174",
@@ -2085,7 +2258,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0174"
   },
   {
     "touch_id": "SS-T0175",
@@ -2097,7 +2271,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0175"
   },
   {
     "touch_id": "SS-T0176",
@@ -2109,7 +2284,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0176"
   },
   {
     "touch_id": "SS-T0177",
@@ -2121,7 +2297,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0177"
   },
   {
     "touch_id": "SS-T0178",
@@ -2133,7 +2310,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0178"
   },
   {
     "touch_id": "SS-T0179",
@@ -2145,7 +2323,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0179"
   },
   {
     "touch_id": "SS-T0180",
@@ -2157,7 +2336,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0180"
   },
   {
     "touch_id": "SS-T0181",
@@ -2169,7 +2349,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0181"
   },
   {
     "touch_id": "SS-T0182",
@@ -2181,7 +2362,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0182"
   },
   {
     "touch_id": "SS-T0183",
@@ -2193,7 +2375,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0183"
   },
   {
     "touch_id": "SS-T0184",
@@ -2205,7 +2388,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0184"
   },
   {
     "touch_id": "SS-T0185",
@@ -2217,7 +2401,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0185"
   },
   {
     "touch_id": "SS-T0186",
@@ -2229,7 +2414,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0186"
   },
   {
     "touch_id": "SS-T0187",
@@ -2241,7 +2427,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0187"
   },
   {
     "touch_id": "SS-T0188",
@@ -2253,7 +2440,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0188"
   },
   {
     "touch_id": "SS-T0189",
@@ -2265,7 +2453,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0189"
   },
   {
     "touch_id": "SS-T0190",
@@ -2277,7 +2466,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0190"
   },
   {
     "touch_id": "SS-T0191",
@@ -2289,7 +2479,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0191"
   },
   {
     "touch_id": "SS-T0192",
@@ -2301,7 +2492,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0192"
   },
   {
     "touch_id": "SS-T0193",
@@ -2313,7 +2505,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0193"
   },
   {
     "touch_id": "SS-T0194",
@@ -2325,7 +2518,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0194"
   },
   {
     "touch_id": "SS-T0195",
@@ -2337,7 +2531,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0195"
   },
   {
     "touch_id": "SS-T0196",
@@ -2349,7 +2544,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0196"
   },
   {
     "touch_id": "SS-T0197",
@@ -2361,7 +2557,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0197"
   },
   {
     "touch_id": "SS-T0198",
@@ -2373,7 +2570,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0198"
   },
   {
     "touch_id": "SS-T0199",
@@ -2385,7 +2583,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0199"
   },
   {
     "touch_id": "SS-T0200",
@@ -2397,7 +2596,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0200"
   },
   {
     "touch_id": "SS-T0201",
@@ -2409,7 +2609,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0201"
   },
   {
     "touch_id": "SS-T0202",
@@ -2421,7 +2622,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0202"
   },
   {
     "touch_id": "SS-T0203",
@@ -2433,7 +2635,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0203"
   },
   {
     "touch_id": "SS-T0204",
@@ -2445,7 +2648,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0204"
   },
   {
     "touch_id": "SS-T0205",
@@ -2457,7 +2661,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0205"
   },
   {
     "touch_id": "SS-T0206",
@@ -2469,7 +2674,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0206"
   },
   {
     "touch_id": "SS-T0207",
@@ -2481,7 +2687,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0207"
   },
   {
     "touch_id": "SS-T0208",
@@ -2493,7 +2700,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0208"
   },
   {
     "touch_id": "SS-T0209",
@@ -2505,7 +2713,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0209"
   },
   {
     "touch_id": "SS-T0210",
@@ -2517,7 +2726,8 @@
     "campaign_id": "DIRECT",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0210"
   },
   {
     "touch_id": "SS-T0211",
@@ -2529,7 +2739,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0211"
   },
   {
     "touch_id": "SS-T0212",
@@ -2541,7 +2752,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0212"
   },
   {
     "touch_id": "SS-T0213",
@@ -2553,7 +2765,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0213"
   },
   {
     "touch_id": "SS-T0214",
@@ -2565,7 +2778,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0214"
   },
   {
     "touch_id": "SS-T0215",
@@ -2577,7 +2791,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0215"
   },
   {
     "touch_id": "SS-T0216",
@@ -2589,7 +2804,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0216"
   },
   {
     "touch_id": "SS-T0217",
@@ -2601,7 +2817,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0217"
   },
   {
     "touch_id": "SS-T0218",
@@ -2613,7 +2830,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0218"
   },
   {
     "touch_id": "SS-T0219",
@@ -2625,7 +2843,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0219"
   },
   {
     "touch_id": "SS-T0220",
@@ -2637,7 +2856,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0220"
   },
   {
     "touch_id": "SS-T0221",
@@ -2649,7 +2869,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0221"
   },
   {
     "touch_id": "SS-T0222",
@@ -2661,7 +2882,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0222"
   },
   {
     "touch_id": "SS-T0223",
@@ -2673,7 +2895,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0223"
   },
   {
     "touch_id": "SS-T0224",
@@ -2685,7 +2908,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0224"
   },
   {
     "touch_id": "SS-T0225",
@@ -2697,7 +2921,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0225"
   },
   {
     "touch_id": "SS-T0226",
@@ -2709,7 +2934,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0226"
   },
   {
     "touch_id": "SS-T0227",
@@ -2721,7 +2947,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0227"
   },
   {
     "touch_id": "SS-T0228",
@@ -2733,7 +2960,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0228"
   },
   {
     "touch_id": "SS-T0229",
@@ -2745,7 +2973,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0229"
   },
   {
     "touch_id": "SS-T0230",
@@ -2757,7 +2986,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0230"
   },
   {
     "touch_id": "SS-T0231",
@@ -2769,7 +2999,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0231"
   },
   {
     "touch_id": "SS-T0232",
@@ -2781,7 +3012,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0232"
   },
   {
     "touch_id": "SS-T0233",
@@ -2793,7 +3025,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0233"
   },
   {
     "touch_id": "SS-T0234",
@@ -2805,7 +3038,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0234"
   },
   {
     "touch_id": "SS-T0235",
@@ -2817,7 +3051,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0235"
   },
   {
     "touch_id": "SS-T0236",
@@ -2829,7 +3064,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0236"
   },
   {
     "touch_id": "SS-T0237",
@@ -2841,7 +3077,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0237"
   },
   {
     "touch_id": "SS-T0238",
@@ -2853,7 +3090,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0238"
   },
   {
     "touch_id": "SS-T0239",
@@ -2865,7 +3103,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0239"
   },
   {
     "touch_id": "SS-T0240",
@@ -2877,7 +3116,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0240"
   },
   {
     "touch_id": "SS-T0241",
@@ -2889,7 +3129,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0241"
   },
   {
     "touch_id": "SS-T0242",
@@ -2901,7 +3142,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0242"
   },
   {
     "touch_id": "SS-T0243",
@@ -2913,7 +3155,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0243"
   },
   {
     "touch_id": "SS-T0244",
@@ -2925,7 +3168,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0244"
   },
   {
     "touch_id": "SS-T0245",
@@ -2937,7 +3181,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0245"
   },
   {
     "touch_id": "SS-T0246",
@@ -2949,7 +3194,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0246"
   },
   {
     "touch_id": "SS-T0247",
@@ -2961,7 +3207,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0247"
   },
   {
     "touch_id": "SS-T0248",
@@ -2973,7 +3220,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0248"
   },
   {
     "touch_id": "SS-T0249",
@@ -2985,7 +3233,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0249"
   },
   {
     "touch_id": "SS-T0250",
@@ -2997,7 +3246,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0250"
   },
   {
     "touch_id": "SS-T0251",
@@ -3009,7 +3259,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0251"
   },
   {
     "touch_id": "SS-T0252",
@@ -3021,7 +3272,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0252"
   },
   {
     "touch_id": "SS-T0253",
@@ -3033,7 +3285,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0253"
   },
   {
     "touch_id": "SS-T0254",
@@ -3045,7 +3298,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0254"
   },
   {
     "touch_id": "SS-T0255",
@@ -3057,7 +3311,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0255"
   },
   {
     "touch_id": "SS-T0256",
@@ -3069,7 +3324,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0256"
   },
   {
     "touch_id": "SS-T0257",
@@ -3081,7 +3337,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0257"
   },
   {
     "touch_id": "SS-T0258",
@@ -3093,7 +3350,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0258"
   },
   {
     "touch_id": "SS-T0259",
@@ -3105,7 +3363,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0259"
   },
   {
     "touch_id": "SS-T0260",
@@ -3117,7 +3376,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0260"
   },
   {
     "touch_id": "SS-T0261",
@@ -3129,7 +3389,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0261"
   },
   {
     "touch_id": "SS-T0262",
@@ -3141,7 +3402,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0262"
   },
   {
     "touch_id": "SS-T0263",
@@ -3153,7 +3415,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0263"
   },
   {
     "touch_id": "SS-T0264",
@@ -3165,7 +3428,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0264"
   },
   {
     "touch_id": "SS-T0265",
@@ -3177,7 +3441,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0265"
   },
   {
     "touch_id": "SS-T0266",
@@ -3189,7 +3454,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0266"
   },
   {
     "touch_id": "SS-T0267",
@@ -3201,7 +3467,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0267"
   },
   {
     "touch_id": "SS-T0268",
@@ -3213,7 +3480,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0268"
   },
   {
     "touch_id": "SS-T0269",
@@ -3225,7 +3493,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0269"
   },
   {
     "touch_id": "SS-T0270",
@@ -3237,7 +3506,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0270"
   },
   {
     "touch_id": "SS-T0271",
@@ -3249,7 +3519,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0271"
   },
   {
     "touch_id": "SS-T0272",
@@ -3261,7 +3532,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0272"
   },
   {
     "touch_id": "SS-T0273",
@@ -3273,7 +3545,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0273"
   },
   {
     "touch_id": "SS-T0274",
@@ -3285,7 +3558,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0274"
   },
   {
     "touch_id": "SS-T0275",
@@ -3297,7 +3571,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0275"
   },
   {
     "touch_id": "SS-T0276",
@@ -3309,7 +3584,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0276"
   },
   {
     "touch_id": "SS-T0277",
@@ -3321,7 +3597,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0277"
   },
   {
     "touch_id": "SS-T0278",
@@ -3333,7 +3610,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0278"
   },
   {
     "touch_id": "SS-T0279",
@@ -3345,7 +3623,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0279"
   },
   {
     "touch_id": "SS-T0280",
@@ -3357,7 +3636,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0280"
   },
   {
     "touch_id": "SS-T0281",
@@ -3369,7 +3649,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0281"
   },
   {
     "touch_id": "SS-T0282",
@@ -3381,7 +3662,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0282"
   },
   {
     "touch_id": "SS-T0283",
@@ -3393,7 +3675,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0283"
   },
   {
     "touch_id": "SS-T0284",
@@ -3405,7 +3688,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0284"
   },
   {
     "touch_id": "SS-T0285",
@@ -3417,7 +3701,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0285"
   },
   {
     "touch_id": "SS-T0286",
@@ -3429,7 +3714,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0286"
   },
   {
     "touch_id": "SS-T0287",
@@ -3441,7 +3727,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0287"
   },
   {
     "touch_id": "SS-T0288",
@@ -3453,7 +3740,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0288"
   },
   {
     "touch_id": "SS-T0289",
@@ -3465,7 +3753,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0289"
   },
   {
     "touch_id": "SS-T0290",
@@ -3477,7 +3766,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0290"
   },
   {
     "touch_id": "SS-T0291",
@@ -3489,7 +3779,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0291"
   },
   {
     "touch_id": "SS-T0292",
@@ -3501,7 +3792,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0292"
   },
   {
     "touch_id": "SS-T0293",
@@ -3513,7 +3805,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0293"
   },
   {
     "touch_id": "SS-T0294",
@@ -3525,7 +3818,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0294"
   },
   {
     "touch_id": "SS-T0295",
@@ -3537,7 +3831,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0295"
   },
   {
     "touch_id": "SS-T0296",
@@ -3549,7 +3844,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0296"
   },
   {
     "touch_id": "SS-T0297",
@@ -3561,7 +3857,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0297"
   },
   {
     "touch_id": "SS-T0298",
@@ -3573,7 +3870,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0298"
   },
   {
     "touch_id": "SS-T0299",
@@ -3585,7 +3883,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0299"
   },
   {
     "touch_id": "SS-T0300",
@@ -3597,7 +3896,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0300"
   },
   {
     "touch_id": "SS-T0301",
@@ -3609,7 +3909,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0301"
   },
   {
     "touch_id": "SS-T0302",
@@ -3621,7 +3922,8 @@
     "campaign_id": "SS-GOOGLE-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0302"
   },
   {
     "touch_id": "SS-T0303",
@@ -3633,7 +3935,8 @@
     "campaign_id": "SS-TIKTOK-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0303"
   },
   {
     "touch_id": "SS-T0001",
@@ -3645,7 +3948,8 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0304"
   },
   {
     "touch_id": "SS-T0015",
@@ -3657,6 +3961,7 @@
     "campaign_id": "SS-META-01",
     "interaction": "click",
     "currency": "USD",
-    "synthetic": true
+    "synthetic": true,
+    "source_row_id": "touchpoints-0305"
   }
 ]

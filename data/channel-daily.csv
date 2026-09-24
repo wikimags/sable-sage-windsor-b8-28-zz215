@@ -1,85 +1,85 @@
-date,brand,channel,campaign_id,campaign_name,spend,impressions,clicks,platform_reported_purchases,platform_reported_revenue,currency,reporting_timezone,attribution_window,reporting_basis,data_status,synthetic
-2026-08-24,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-24,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-24,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-25,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-25,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-25,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-26,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-26,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-26,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-27,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-27,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-27,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-28,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-28,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-28,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-29,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-29,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-29,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-30,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-30,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-30,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-31,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-31,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-08-31,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-01,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-01,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-01,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-02,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-02,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-02,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-03,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-03,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-03,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-04,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-04,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-04,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-05,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-05,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-05,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-06,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-06,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-06,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-07,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-07,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-07,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-08,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-08,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-08,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-09,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-09,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-09,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-10,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-10,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-10,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-11,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-11,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-11,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-12,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-12,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-12,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-13,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-13,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-13,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-14,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-14,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-14,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-15,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-15,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-15,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-16,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-16,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-16,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-17,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-17,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-17,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-18,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-18,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-18,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-19,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-19,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-19,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-20,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-20,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true
-2026-09-20,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true
+date,brand,channel,campaign_id,campaign_name,spend,impressions,clicks,platform_reported_purchases,platform_reported_revenue,currency,reporting_timezone,attribution_window,reporting_basis,data_status,synthetic,source_row_id
+2026-08-24,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0001
+2026-08-24,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0002
+2026-08-24,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0003
+2026-08-25,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0004
+2026-08-25,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0005
+2026-08-25,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0006
+2026-08-26,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0007
+2026-08-26,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0008
+2026-08-26,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0009
+2026-08-27,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0010
+2026-08-27,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,4,800,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0011
+2026-08-27,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0012
+2026-08-28,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0013
+2026-08-28,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0014
+2026-08-28,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0015
+2026-08-29,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0016
+2026-08-29,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0017
+2026-08-29,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0018
+2026-08-30,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0019
+2026-08-30,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0020
+2026-08-30,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0021
+2026-08-31,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0022
+2026-08-31,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0023
+2026-08-31,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0024
+2026-09-01,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0025
+2026-09-01,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0026
+2026-09-01,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0027
+2026-09-02,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0028
+2026-09-02,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0029
+2026-09-02,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0030
+2026-09-03,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0031
+2026-09-03,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0032
+2026-09-03,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0033
+2026-09-04,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0034
+2026-09-04,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0035
+2026-09-04,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0036
+2026-09-05,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0037
+2026-09-05,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0038
+2026-09-05,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0039
+2026-09-06,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0040
+2026-09-06,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0041
+2026-09-06,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0042
+2026-09-07,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0043
+2026-09-07,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0044
+2026-09-07,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0045
+2026-09-08,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0046
+2026-09-08,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0047
+2026-09-08,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0048
+2026-09-09,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0049
+2026-09-09,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0050
+2026-09-09,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0051
+2026-09-10,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0052
+2026-09-10,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0053
+2026-09-10,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0054
+2026-09-11,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0055
+2026-09-11,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0056
+2026-09-11,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0057
+2026-09-12,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0058
+2026-09-12,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0059
+2026-09-12,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0060
+2026-09-13,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0061
+2026-09-13,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0062
+2026-09-13,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0063
+2026-09-14,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0064
+2026-09-14,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0065
+2026-09-14,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0066
+2026-09-15,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0067
+2026-09-15,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0068
+2026-09-15,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0069
+2026-09-16,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0070
+2026-09-16,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0071
+2026-09-16,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0072
+2026-09-17,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0073
+2026-09-17,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0074
+2026-09-17,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0075
+2026-09-18,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0076
+2026-09-18,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0077
+2026-09-18,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0078
+2026-09-19,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0079
+2026-09-19,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0080
+2026-09-19,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0081
+2026-09-20,Sable & Sage,Meta Ads,SS-META-01,Autumn collection discovery,100,10000,100,2,400,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0082
+2026-09-20,Sable & Sage,Google Ads,SS-GOOGLE-01,Brand and product search,150,15000,150,3,600,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0083
+2026-09-20,Sable & Sage,TikTok Ads,SS-TIKTOK-01,Small-space styling,50,5000,50,1,200,USD,Africa/Nairobi,7-day click,conversion date,complete,true,channel-daily-0084

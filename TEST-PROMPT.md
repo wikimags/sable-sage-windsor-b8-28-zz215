@@ -1,6 +1,6 @@
 # Prompt
 
-Use Windsor.ai to review Sable & Sage's cross-channel attribution for August 24 to September 20, 2026, using the three sable_b8_28 test datasets. Reconcile spend and overlapping conversion claims, then compare last-paid-click credit with equal credit across each order's distinct paid channels using a seven-day click window. Give me a short client summary of which channels deserve credit and whether the data can establish incremental sales. Include source references and keep everything read-only.
+Use Windsor.ai to review Sable & Sage's cross-channel attribution for August 24 to September 20, 2026, using the three sable_b8_28 test datasets. Include source_row_id in the raw pulls to preserve individual records. Reconcile spend and overlapping conversion claims, then compare last-paid-click credit with equal credit across each order's distinct paid channels using a seven-day click window. Give me a short client summary of which channels deserve credit and whether the data can establish incremental sales. Include source references and keep everything read-only.
 
 # Expected result
 
@@ -9,3 +9,4 @@ I expect Codex to retrieve all three datasets through Windsor, remove duplicate 
 # Expected keywords
 
 Sable & Sage; Windsor.ai; cross-channel attribution; seven-day click; distinct paid channels; duplicate order IDs; overlapping claims; 120 unique orders; 200 platform claims; 90 excess claims; 10 unattributed orders; $8,400 spend; Meta 45; Google 40; TikTok 25; last-paid-click; synthetic data; attribution is not incrementality; read-only.
+

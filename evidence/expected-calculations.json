@@ -1,0 +1,76 @@
+{
+  "period": {
+    "from": "2026-08-24",
+    "to": "2026-09-20",
+    "timezone": "Africa/Nairobi",
+    "currency": "USD",
+    "lookback_days": 7
+  },
+  "row_counts": {
+    "channel_daily": 84,
+    "orders_raw": 122,
+    "orders_unique": 120,
+    "touchpoints_raw": 305,
+    "touchpoints_unique": 303,
+    "nonconverting_journeys": 60
+  },
+  "total_spend": 8400,
+  "unique_orders": 120,
+  "total_order_revenue": 24000,
+  "paid_matched_orders": 110,
+  "unattributed_orders": 10,
+  "platform_claims": 200,
+  "duplicate_channel_claims": 90,
+  "multi_channel_orders": 60,
+  "summary": [
+    {
+      "channel": "Meta Ads",
+      "spend": 2800,
+      "platform_claims": 80,
+      "first_paid_click": 60,
+      "last_paid_click": 21,
+      "channel_linear_credit": 45,
+      "attributed_revenue": 9000,
+      "attributed_cpa": 62.22222222222222,
+      "attributed_roas": 3.2142857142857144
+    },
+    {
+      "channel": "Google Ads",
+      "spend": 4200,
+      "platform_claims": 75,
+      "first_paid_click": 15,
+      "last_paid_click": 74,
+      "channel_linear_credit": 40,
+      "attributed_revenue": 8000,
+      "attributed_cpa": 105,
+      "attributed_roas": 1.9047619047619047
+    },
+    {
+      "channel": "TikTok Ads",
+      "spend": 1400,
+      "platform_claims": 45,
+      "first_paid_click": 35,
+      "last_paid_click": 15,
+      "channel_linear_credit": 25,
+      "attributed_revenue": 5000,
+      "attributed_cpa": 56,
+      "attributed_roas": 3.5714285714285716
+    },
+    {
+      "channel": "Unattributed",
+      "spend": 0,
+      "platform_claims": 0,
+      "first_paid_click": 10,
+      "last_paid_click": 10,
+      "channel_linear_credit": 10,
+      "attributed_revenue": 2000,
+      "attributed_cpa": null,
+      "attributed_roas": null
+    }
+  ],
+  "limitations": [
+    "All source data is synthetic. No native paid-ad accounts are connected.",
+    "Channel-linear, first-paid-click and last-paid-click are transparent rule-based models, not a native Windsor attribution service.",
+    "Observed journeys do not establish causal incrementality; no randomized holdout is provided."
+  ]
+}

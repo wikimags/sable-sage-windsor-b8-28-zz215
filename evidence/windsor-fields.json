@@ -1,0 +1,268 @@
+[
+  {
+    "id": "sable_b8_28_orders__order_id",
+    "name": "sable_b8_28_orders.order_id",
+    "description": "sable_b8_28_orders.order_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__journey_id",
+    "name": "sable_b8_28_orders.journey_id",
+    "description": "sable_b8_28_orders.journey_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__conversion_at",
+    "name": "sable_b8_28_orders.conversion_at",
+    "description": "sable_b8_28_orders.conversion_at",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__conversion_date",
+    "name": "sable_b8_28_orders.conversion_date",
+    "description": "sable_b8_28_orders.conversion_date",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__revenue",
+    "name": "sable_b8_28_orders.revenue",
+    "description": "sable_b8_28_orders.revenue",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__currency",
+    "name": "sable_b8_28_orders.currency",
+    "description": "sable_b8_28_orders.currency",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__order_status",
+    "name": "sable_b8_28_orders.order_status",
+    "description": "sable_b8_28_orders.order_status",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__reporting_timezone",
+    "name": "sable_b8_28_orders.reporting_timezone",
+    "description": "sable_b8_28_orders.reporting_timezone",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__synthetic",
+    "name": "sable_b8_28_orders.synthetic",
+    "description": "sable_b8_28_orders.synthetic",
+    "type": "BOOLEAN",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_orders__source_row_id",
+    "name": "sable_b8_28_orders.source_row_id",
+    "description": "sable_b8_28_orders.source_row_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_orders"
+  },
+  {
+    "id": "sable_b8_28_touches__touch_id",
+    "name": "sable_b8_28_touches.touch_id",
+    "description": "sable_b8_28_touches.touch_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__journey_id",
+    "name": "sable_b8_28_touches.journey_id",
+    "description": "sable_b8_28_touches.journey_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__order_id",
+    "name": "sable_b8_28_touches.order_id",
+    "description": "sable_b8_28_touches.order_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__touch_at",
+    "name": "sable_b8_28_touches.touch_at",
+    "description": "sable_b8_28_touches.touch_at",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__touch_date",
+    "name": "sable_b8_28_touches.touch_date",
+    "description": "sable_b8_28_touches.touch_date",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__channel",
+    "name": "sable_b8_28_touches.channel",
+    "description": "sable_b8_28_touches.channel",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__campaign_id",
+    "name": "sable_b8_28_touches.campaign_id",
+    "description": "sable_b8_28_touches.campaign_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__interaction",
+    "name": "sable_b8_28_touches.interaction",
+    "description": "sable_b8_28_touches.interaction",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__currency",
+    "name": "sable_b8_28_touches.currency",
+    "description": "sable_b8_28_touches.currency",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__synthetic",
+    "name": "sable_b8_28_touches.synthetic",
+    "description": "sable_b8_28_touches.synthetic",
+    "type": "BOOLEAN",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_touches__source_row_id",
+    "name": "sable_b8_28_touches.source_row_id",
+    "description": "sable_b8_28_touches.source_row_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_touches"
+  },
+  {
+    "id": "sable_b8_28_spend__date",
+    "name": "sable_b8_28_spend.date",
+    "description": "sable_b8_28_spend.date",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__brand",
+    "name": "sable_b8_28_spend.brand",
+    "description": "sable_b8_28_spend.brand",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__channel",
+    "name": "sable_b8_28_spend.channel",
+    "description": "sable_b8_28_spend.channel",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__campaign_id",
+    "name": "sable_b8_28_spend.campaign_id",
+    "description": "sable_b8_28_spend.campaign_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__campaign_name",
+    "name": "sable_b8_28_spend.campaign_name",
+    "description": "sable_b8_28_spend.campaign_name",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__spend",
+    "name": "sable_b8_28_spend.spend",
+    "description": "sable_b8_28_spend.spend",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__impressions",
+    "name": "sable_b8_28_spend.impressions",
+    "description": "sable_b8_28_spend.impressions",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__clicks",
+    "name": "sable_b8_28_spend.clicks",
+    "description": "sable_b8_28_spend.clicks",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__platform_reported_purchases",
+    "name": "sable_b8_28_spend.platform_reported_purchases",
+    "description": "sable_b8_28_spend.platform_reported_purchases",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__platform_reported_revenue",
+    "name": "sable_b8_28_spend.platform_reported_revenue",
+    "description": "sable_b8_28_spend.platform_reported_revenue",
+    "type": "NUMERIC",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__currency",
+    "name": "sable_b8_28_spend.currency",
+    "description": "sable_b8_28_spend.currency",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__reporting_timezone",
+    "name": "sable_b8_28_spend.reporting_timezone",
+    "description": "sable_b8_28_spend.reporting_timezone",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__attribution_window",
+    "name": "sable_b8_28_spend.attribution_window",
+    "description": "sable_b8_28_spend.attribution_window",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__reporting_basis",
+    "name": "sable_b8_28_spend.reporting_basis",
+    "description": "sable_b8_28_spend.reporting_basis",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__data_status",
+    "name": "sable_b8_28_spend.data_status",
+    "description": "sable_b8_28_spend.data_status",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__synthetic",
+    "name": "sable_b8_28_spend.synthetic",
+    "description": "sable_b8_28_spend.synthetic",
+    "type": "BOOLEAN",
+    "table": "sable_b8_28_spend"
+  },
+  {
+    "id": "sable_b8_28_spend__source_row_id",
+    "name": "sable_b8_28_spend.source_row_id",
+    "description": "sable_b8_28_spend.source_row_id",
+    "type": "TEXT",
+    "table": "sable_b8_28_spend"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "verified_at": "2026-09-24T12:31:50.867Z",
+  "connector": "file",
+  "authenticated_user": "zz215@expert.micro1.ai",
+  "method": "Retrieve every discovered field including source_row_id; compare every source cell by ingestion locator. Normalize boolean True/true and null/empty string representations only.",
+  "datasets": [
+    {
+      "dataset": "sable_b8_28_spend",
+      "account": "375",
+      "source_rows": 84,
+      "connector_rows": 84,
+      "cells_compared": 1428,
+      "all_values_match": true
+    },
+    {
+      "dataset": "sable_b8_28_orders",
+      "account": "376",
+      "source_rows": 122,
+      "connector_rows": 122,
+      "cells_compared": 1220,
+      "all_values_match": true
+    },
+    {
+      "dataset": "sable_b8_28_touches",
+      "account": "378",
+      "source_rows": 305,
+      "connector_rows": 305,
+      "cells_compared": 3355,
+      "all_values_match": true
+    }
+  ],
+  "total_cells_compared": 6003,
+  "all_values_match": true
+}
